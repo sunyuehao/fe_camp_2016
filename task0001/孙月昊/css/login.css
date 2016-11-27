@@ -1,0 +1,35 @@
+body,html{
+    height: 100%;
+    margin:0;
+}
+body{
+    background-image: url("qwq.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login{
+    background-color: teal;
+    margin: auto;
+    height: 350px;
+    width: 410px;
+    border-radius: 9px;
+    position: relative;
+    top: 150px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+    margin: 18px;
+    font-size: 16px;
+    border-radius: 9px;
+}
+button{
+    height: 30px;
+    width: 300px;
+    margin: 18px;
+    border-radius: 6px;
+}
+img{
+    border-radius: 9px 9px 0px 0px;
+}
